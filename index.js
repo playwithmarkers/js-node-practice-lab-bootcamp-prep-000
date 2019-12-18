@@ -10,5 +10,4 @@ console.log("Height:");
 console.log(height);
 
 
-//module.exports = { name, height
-};
+//module.exports = { name, height };
