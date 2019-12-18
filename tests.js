@@ -1,7 +1,7 @@
-var index = require('./index.js');
+var index = require("./index.js");
 
-console.log("Name:")
-console.log(name)
+console.log("Name:");
+console.log(name);
 
-console.log("Height:")
-console.log(height)
+console.log("Height:");
+console.log(height);
