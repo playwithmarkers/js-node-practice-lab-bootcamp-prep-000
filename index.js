@@ -9,3 +9,6 @@ console.log(name)
 console.log("Height:")
 console.log(height)
 */
+
+module.exports = { name, height
+};
